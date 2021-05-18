@@ -13,7 +13,8 @@
 *.userprefs
 
 # Build results
-[Ff]ont[Aa]wesome
+**/[Ff]ont[Aa]wesome/metadata/**/*
+**/[Ff]ont[Aa]wesome/otfs/**/*
 [Dd]ebug/
 [Dd]ebugPublic/
 [Rr]elease/
